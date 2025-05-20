@@ -36,3 +36,37 @@ let first_name = "Masoud",
 
 console.log(`I am ${my_age} years old`);
 console.log(`you are ${myAge} years old`);
+
+
+
+// Day 2
+
+let challenge =  '30 Days Of JavaScript';
+
+console.log(challenge);
+
+console.log(challenge.length);
+
+console.log(challenge.toUpperCase());
+
+console.log(challenge.toLowerCase());
+
+console.log(challenge.substring(0,2));
+
+console.log(challenge.substring(3));
+
+console.log(challenge.includes("Script"));
+
+console.log(challenge.split(" "));
+
+let company = 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon';
+
+console.log(company.split(", "));
+
+console.log(challenge.replace("JavaScript", "Python"));
+
+console.log(challenge.charAt(15));
+
+console.log(challenge.charCodeAt("J"));
+
+//end  Q 14
